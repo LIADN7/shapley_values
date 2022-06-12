@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: shapley-values
+Version: 1.0.0
+Summary: Shapley values package
+Home-page: https://github.com/LIADN7/shapley_values
+Author: Liad Nagi
+Author-email: liadnagi@gmail.com
+License: MIT
+Project-URL: Documentation, https://github.com/LIADN7/shapley_values
+Project-URL: Bug Reports, https://github.com/LIADN7/shapley_values/issues
+Project-URL: Source Code, https://github.com/LIADN7/shapley_values
+Keywords: shapley,pypi,package
+Platform: UNKNOWN
+Classifier: Development Status :: 7 - Inactive
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# shapley values
+

@@ -16,7 +16,8 @@ from itertools import combinations
 import math
 import string
 import logging
-from shapley import shapley
+import shapley_values
+from shapley_values.shapley import shapley
 
 logger = logging.getLogger(__name__)
 
