@@ -11,6 +11,10 @@ An open-source library of [Shapley value algorithms](https://en.wikipedia.org/wi
     pip install -r requirements.txt
     pip install -e .
 
+#### If you want just to use the library:
+    pip install shapley-values
+
+
 To verify that everything was installed correctly, run one of the test programs,
 
     python shapley_values/tests/test_shap.py
@@ -20,6 +24,9 @@ To verify that everything was installed correctly, run one of the test programs,
 ## Other algorithms implemented:
   ***[X_Shapley](https://www.aaai.org/AAAI22Papers/SA-00194-NizriM.pdf)***
 
-
+***
+ 
+ 
+ ***[Link to PYPI](https://pypi.org/project/shapley-values/)***
 
 
